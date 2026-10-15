@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoAddPawnToOutpost", "AutoAddPawnToOutpost.csproj", "{8D03318E-714E-6E70-0797-511BE9A9E6B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D03318E-714E-6E70-0797-511BE9A9E6B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D03318E-714E-6E70-0797-511BE9A9E6B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D03318E-714E-6E70-0797-511BE9A9E6B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D03318E-714E-6E70-0797-511BE9A9E6B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B774ACF7-86AB-41D6-9FB7-24E9D4910E6F}
+	EndGlobalSection
+EndGlobal
